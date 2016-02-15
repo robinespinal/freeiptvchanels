@@ -1,0 +1,49 @@
+﻿#EXTM3U
+#EXTINF:-1,---- CARTONI ANIMATI ----
+http://iptvservice.ddns.net:8000/live/pot/pot/1031.ts
+#EXTINF:-1,Sky Disney Channel
+http://iptvservice.ddns.net:8000/live/pot/pot/1024.ts
+#EXTINF:-1,Sky Disney Channel +1
+http://iptvservice.ddns.net:8000/live/pot/pot/2604.ts
+#EXTINF:-1,Disney Channels +2
+http://iptvservice.ddns.net:8000/live/pot/pot/2457.ts
+#EXTINF:-1,Sky Disney XD
+http://iptvservice.ddns.net:8000/live/pot/pot/1026.ts
+#EXTINF:-1,Sky Disney Junior
+http://iptvservice.ddns.net:8000/live/pot/pot/1025.ts
+#EXTINF:-1,DeAKids +1
+http://iptvservice.ddns.net:8000/live/pot/pot/3047.ts
+#EXTINF:-1,Nick Jr +1
+http://iptvservice.ddns.net:8000/live/pot/pot/2469.ts
+#EXTINF:-1,Jim Jam +1
+http://iptvservice.ddns.net:8000/live/pot/pot/3048.ts
+#EXTINF:-1,Sky Cartoon Network
+http://iptvservice.ddns.net:8000/live/pot/pot/1027.ts
+#EXTINF:-1,Rai Yoyo
+http://iptvservice.ddns.net:8000/live/pot/pot/1028.ts
+#EXTINF:-1,Cartonito
+http://iptvservice.ddns.net:8000/live/pot/pot/1030.ts
+#EXTINF:-1,Super
+http://iptvservice.ddns.net:8000/live/pot/pot/1272.ts
+#EXTINF:-1,K2
+http://iptvservice.ddns.net:8000/live/pot/pot/1271.ts
+#EXTINF:-1,Frisbee
+http://iptvservice.ddns.net:8000/live/pot/pot/1270.ts
+#EXTINF:-1,Boing
+http://iptvservice.ddns.net:8000/live/pot/pot/1268.ts
+#EXTINF:-1,Rai Gulp
+http://iptvservice.ddns.net:8000/live/pot/pot/1236.ts
+#EXTINF:-1,Rai Scuola
+http://iptvservice.ddns.net:8000/live/pot/pot/2518.ts
+#EXTINF:-1,Dea Junior
+http://iptvservice.ddns.net:8000/live/pot/pot/2528.ts
+#EXTINF:-1,Masha Orso Channel
+http://iptvservice.ddns.net:8000/live/pot/pot/2117.ts
+#EXTINF:-1,Peppa Pig TV
+http://iptvservice.ddns.net:8000/live/pot/pot/2120.ts
+#EXTINF:-1,Peppa Pig TV 2
+http://iptvservice.ddns.net:8000/live/pot/pot/2121.ts
+#EXTINF:-1,Peppa Pig TV 3
+http://iptvservice.ddns.net:8000/live/pot/pot/2122.ts
+#EXTINF:-1,Peppa Pig TV 4
+http://iptvservice.ddns.net:8000/live/pot/pot/2123.ts
